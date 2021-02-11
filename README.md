@@ -12,6 +12,10 @@ Some more words. Dear Trogdor, today I learned how to use git and how to make a 
 
 Dear Trogdor, today I met a wonderful Goat. I think he is powerful and majestic, and we should add him as a member of our world-domination team.
 
+## 2020-12-17
+
+Dearest Lord Burninator, I fear that the Goat may be too powerful. I learned that he also brews potions, and upon asking if I could purchase some, I learned that his potions are far too powerful for me. I did not push him on this issue, but perhaps he will see and understand your power. I will see if I may enclose a sample with my next letter.
+
 ## 2021-04-20
 
 Lord Burninator, today I ate a sandwich.
