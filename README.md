@@ -27,3 +27,7 @@ Lord Burninator, today I ate a sandwich.
 ## 2021-04-20
 
 Tommorow is Taco Tuesday
+
+## 2021-04-20
+
+They were out of tacos when I got there.  I have a nominee for burnination.
