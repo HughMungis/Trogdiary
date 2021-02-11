@@ -7,3 +7,7 @@ Some more words. Dear Trogdor, today I learned how to use git and how to make a 
 ## 2020-12-16
 
 Dear Trogdor, today I met a wonderful Goat. I think he is powerful and majestic, and we should add him as a member of our world-domination team.
+
+## 2021-04-20
+
+Lord Burninator, today I ate a sandwich.
