@@ -61,3 +61,6 @@ They ran out of jams at the store...the world has ended...and Barney was cancell
 
 Barney is back, but he demands blood
 
+## 2022-01-01
+
+Planted a tree today
