@@ -18,11 +18,11 @@ Dear Trogdor, today I met a wonderful Goat. I think he is powerful and majestic,
 
 ## 2020-12-17
 
-Dearest Lord Burninator, I fear that the Goat may be too powerful. I learned that he also brews potions, and upon asking if I could purchase some, I learned that his potions are far too powerful for me. I did not push him on this issue, but perhaps he will see and understand your power. I will see if I may enclose a sample with my next letter.
+Dearest Lord Burninator, I fear that the Goat may be too powerful. I learned that he also brews potions, and upon asking if I could purchase some, I learned that his potions are far too powerful for me. I did not push him on this issue, but perhaps he will see and understand your power. I will see if I may enclose a sample with my next letter.S
 
 ## 2020-12-17
 
-My Burning Lord, the Servile Goat has agreed to send you a sample of his strongest potions. They shall be delivered to you upon the morrow.
+My Burning Lord, the Servile Goat has agreed to send you a sample of his strongest potions. They shall be delivered to you upon the morrow \[sic] amazon estimates your package will arrive in 1 week.
 
 ## 2021-03-11
 
