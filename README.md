@@ -38,11 +38,11 @@ Lord Burninator, today I ate a sandwich.
 
 ## 2021-04-20
 
-Museums won't let me in because I put grass from the yard in my pocket.
+Museums took the grass from the my yard in my pocket and declared it modern art
 
 ## 2021-04-20
 
-Tommorow is Taco Tuesday
+Tommorow is Taco Tuesday/[sic] we have decided to eat tacos only on wednesdays.  Thor is not pleased.
 
 ## 2021-04-21
 
