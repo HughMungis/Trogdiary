@@ -16,13 +16,17 @@ Dear Trogdor, today I met a wonderful Goat. I think he is powerful and majestic,
 
 Dearest Lord Burninator, I fear that the Goat may be too powerful. I learned that he also brews potions, and upon asking if I could purchase some, I learned that his potions are far too powerful for me. I did not push him on this issue, but perhaps he will see and understand your power. I will see if I may enclose a sample with my next letter.
 
-## 2020-12-17
+## 2020-12-18
 
 My Burning Lord, the Servile Goat has agreed to send you a sample of his strongest potions. They shall be delivered to you upon the morrow.
 
+## 2020-12-19
+
+My Dearest Flame upon the Peasants of our land, you would hardly believe how joyous I was to see your flame growing ever stronger in the distance as you consumed the Majestic Goat's Strongest Postions. The whole sky lit up with your firey breath - and it brought a tear to my eye.
+
 ## 2021-03-11
 
-I have inventied an incredible device for time travel and used it to obtain a taco that is about -1 month old.  It is the freshest taco I have ever consumed.S
+I have inventied an incredible device for time travel and used it to obtain a taco that is about -1 month old.  It is the freshest taco I have ever consumed.
 
 ## 2021-04-20
 
