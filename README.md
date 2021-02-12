@@ -31,3 +31,8 @@ Tommorow is Taco Tuesday
 ## 2021-04-21
 
 They were out of tacos when I got there.  I have a nominee for burnination.
+
+
+## 2021-04-22
+
+There are 4 lights Picard
