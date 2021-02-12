@@ -18,7 +18,11 @@ Dearest Lord Burninator, I fear that the Goat may be too powerful. I learned tha
 
 ## 2020-12-17
 
-My Burning Lord, the Majestic Goat has agreed to send you a sample of his strongest potions. They shall be delivered to you upon the morrow.
+My Burning Lord, the Servile Goat has agreed to send you a sample of his strongest potions. They shall be delivered to you upon the morrow.
+
+## 2021-03-11
+
+I have inventied an incredible device for time travel and used it to obtain a taco that is about -1 month old.  It is the freshest taco I have ever consumed.S
 
 ## 2021-04-20
 
