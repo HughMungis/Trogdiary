@@ -42,7 +42,7 @@ Museums took the grass from the my yard in my pocket and declared it modern art
 
 ## 2021-04-20
 
-Tommorow is Taco Tuesday/[sic] we have decided to eat tacos only on wednesdays.  Thor is not pleased.
+Tommorow is Taco Tuesday/[sic] we have decided to eat tacos only on wednesdays.  Thor is not pleased. - Carne Asada ended my grandma
 
 ## 2021-04-21
 
