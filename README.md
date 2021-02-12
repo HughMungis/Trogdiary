@@ -1,5 +1,9 @@
 # lernin some git!
 
+## 2019-12-01
+
+Today I noticed a very bad thing in Wuhan.  Hopefully it is nothing
+
 ## 2020-02-10
 
 Hello, I crave chaos and blueberry eggos. :)
