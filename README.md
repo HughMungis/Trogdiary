@@ -1,5 +1,9 @@
 # lernin some git!
 
+## 2019-12-01
+
+Today I noticed a very bad thing in Wuhan.  Hopefully it is nothing
+
 ## 2020-02-10
 
 Hello, I crave chaos and blueberry eggos. :)
@@ -14,11 +18,11 @@ Dear Trogdor, today I met a wonderful Goat. I think he is powerful and majestic,
 
 ## 2020-12-17
 
-Dearest Lord Burninator, I fear that the Goat may be too powerful. I learned that he also brews potions, and upon asking if I could purchase some, I learned that his potions are far too powerful for me. I did not push him on this issue, but perhaps he will see and understand your power. I will see if I may enclose a sample with my next letter.
+Dearest Lord Burninator, I fear that the Goat may be too powerful. I learned that he also brews potions, and upon asking if I could purchase some, I learned that his potions are far too powerful for me. I did not push him on this issue, but perhaps he will see and understand your power. I will see if I may enclose a sample with my next letter.S
 
 ## 2020-12-18
 
-My Burning Lord, the Servile Goat has agreed to send you a sample of his strongest potions. They shall be delivered to you upon the morrow.
+My Burning Lord, the Servile Goat has agreed to send you a sample of his strongest potions. They shall be delivered to you upon the morrow \[sic] amazon estimates your package will arrive in 1 week.
 
 ## 2020-12-19
 
@@ -48,4 +52,8 @@ There are 4 lights Picard
 ## 2021-05-24
 
 They ran out of jams at the store...the world has ended...and Barney was cancelled again.
+
+## 2022-01-01
+
+Barney is back, but he demands blood
 
