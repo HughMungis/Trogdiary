@@ -38,6 +38,10 @@ Lord Burninator, today I ate a sandwich.
 
 ## 2021-04-20
 
+Museums won't let me in because I put grass from the yard in my pocket.
+
+## 2021-04-20
+
 Tommorow is Taco Tuesday
 
 ## 2021-04-21
