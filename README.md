@@ -42,7 +42,7 @@ Museums won't let me in because I put grass from the yard in my pocket.
 
 ## 2021-04-20
 
-Tommorow is Taco Tuesday
+Tommorow is Taco Tuesday - Carne Asada ended my grandma
 
 ## 2021-04-21
 
