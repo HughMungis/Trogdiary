@@ -67,3 +67,6 @@ Planted a tree today
 
 ## 2021-02-19
 yoloswag420rektKEKWpoggersXD
+
+## 2021-02-19
+The internet was a mistake
