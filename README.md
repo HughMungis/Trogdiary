@@ -70,3 +70,6 @@ yoloswag420rektKEKWpoggersXD
 
 ## 2021-02-19
 The internet was a mistake
+
+## 2021-02-20
+But it was a big, beautiful mistake in the style of go big or go home.
