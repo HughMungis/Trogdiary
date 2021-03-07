@@ -102,6 +102,7 @@ I did some analytics work to try and figure out how many Goats vs. the number of
 ## 2021-02-24
 I wrote a song.
 ```
+The internet is really really great - for Goats!
 The internet is for Goats~
 The internet is for Goats~
 Just fill your Moats and drive your Boats for Goats, Goats Goats!
