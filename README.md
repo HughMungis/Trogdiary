@@ -103,6 +103,9 @@ I did some analytics work to try and figure out how many Goats vs. the number of
 I wrote a song.
 ```
 The internet is really really great - for Goats!
+I have a fast connection so I don't have to wait - for Goats!
+I research browse and shop - for Goats!
+Until I've had enough and I have to stop - for Goats!
 The internet is for Goats~
 The internet is for Goats~
 Just fill your Moats and drive your Boats for Goats, Goats Goats!
