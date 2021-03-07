@@ -82,6 +82,9 @@ OHHH SHIIIT DID YOU KNOW THAT THERE ARE GOATS ON THE INTERNETS TOO? HOW DID I NO
 
 Also, GHOSTS! GHOSTS! The unholy see through glove of the underworld is back! They stole the damn pizza again!
 
+## 2021-02-23
+We are building the tower to God out of legos and now we may never fall but we have gotten the pieces stuck again. Someone forgot the brick puller...Steve.
+
 ## 2021-03-06
 We doomed the world and the cake was a lie. But at least we have Tacos. So there's that.
 
