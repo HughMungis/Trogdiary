@@ -93,6 +93,13 @@ I did some analytics work to try and figure out how many Goats vs. the number of
 | Ghosts | 50386  |
 | Cats   | 73505  |
 
+## 2021-02-24
+The internet is for Goats~
+
+The internet is for Goats~
+
+Just fill your Moats and drive your Boats for Goats, Goats Goats!
+
 ## 2021-03-06
 We doomed the world and the cake was a lie. But at least we have Tacos. So there's that.
 
