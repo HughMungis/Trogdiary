@@ -82,6 +82,15 @@ OHHH SHIIIT DID YOU KNOW THAT THERE ARE GOATS ON THE INTERNETS TOO? HOW DID I NO
 
 Also, GHOSTS! GHOSTS! The unholy see through glove of the underworld is back! They stole the damn pizza again!
 
+## 2021-02-23
+I did some analytics work to try and figure out how many Goats vs. the number of Ghosts on the internet. And you know what? I was glad to discover these numbers. Here are the results:
+
+| Type   | Count  |
+| ------ | -----: |
+| Goats  | 999972 |
+| Ghosts | 503    |
+| Cats   | 73505  |
+
 ## 2021-03-06
 We doomed the world and the cake was a lie. But at least we have Tacos. So there's that.
 
