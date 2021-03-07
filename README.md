@@ -129,3 +129,6 @@ Blue up the moon with green paint...delicious.
 
 ## 2021-03-06
 Someone added goat images to our library again! They were nice. But also, kinda scary but cool.
+
+## 2021-03-07
+Working with multiple remotes allows you to have your git history backed up to multiple places!
