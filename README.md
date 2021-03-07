@@ -85,6 +85,14 @@ Also, GHOSTS! GHOSTS! The unholy see through glove of the underworld is back! Th
 ## 2021-02-23
 We are building the tower to God out of legos and now we may never fall but we have gotten the pieces stuck again. Someone forgot the brick puller...Steve.
 
+I did some analytics work to try and figure out how many Goats vs. the number of Ghosts on the internet. And you know what? I was glad to discover these numbers. Here are the results:
+
+| Type   | Count  |
+| ------ | -----: |
+| Goats  | 999972 |
+| Ghosts | 503    |
+| Cats   | 73505  |
+
 ## 2021-03-06
 We doomed the world and the cake was a lie. But at least we have Tacos. So there's that.
 
