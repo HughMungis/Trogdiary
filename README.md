@@ -69,6 +69,9 @@ Planted a tree today
 yoloswag420rektKEKWpoggersXD
 
 ## 2021-02-19
+Committing my password into a git repository in my previous journal entry was a mistake
+
+## 2021-02-19
 The internet was a mistake
 
 ## 2021-02-20
