@@ -111,7 +111,7 @@ We have lost the cats of the world at basketball, this is our score now. Hopeful
 
 | Hoomans  | Cats   |
 | ---------| -----: |
-|   -23    | 999972 |
+|   -69    |   420  |
 
 ## 2021-03-06
 We doomed the world and the cake was a lie. But at least we have Tacos. So there's that.
