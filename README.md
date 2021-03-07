@@ -100,11 +100,12 @@ I did some analytics work to try and figure out how many Goats vs. the number of
 | Cats   | 73505  |
 
 ## 2021-02-24
+I wrote a song.
+```
 The internet is for Goats~
-
 The internet is for Goats~
-
 Just fill your Moats and drive your Boats for Goats, Goats Goats!
+```
 
 ## 2021-02-25
 We have lost the cats of the world at basketball, this is our score now. Hopefully the goats will bring back up soon.
