@@ -118,7 +118,7 @@ We have lost the cats of the world at basketball, this is our score now. Hopeful
 | ---------| -----: |
 | Goats    | 4096   |
 | Cats     | 420    |
-| Ghosts   | 7      |
+| Ghosts   | 69     |
 | Hoomans  | -69    |
 
 ## 2021-03-06
