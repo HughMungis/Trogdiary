@@ -96,6 +96,13 @@ I did some analytics work to try and figure out how many Goats vs. the number of
 | Ghosts | 50386  |
 | Cats   | 73505  |
 
+## 2021-02-25
+We have lost the cats of the world at basketball, this is our score now. Hopefully the goats will bring back up soon.
+
+| Hoomans  | Cats   |
+| ---------| -----: |
+|   -23    | 999972 |
+
 ## 2021-03-06
 We doomed the world and the cake was a lie. But at least we have Tacos. So there's that.
 
