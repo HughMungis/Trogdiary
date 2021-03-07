@@ -127,6 +127,8 @@ We doomed the world and the cake was a lie. But at least we have Tacos. So there
 ## 2021-03-06
 Blue up the moon with green paint...delicious.
 
+UPDATE: We lost the moon.
+
 ## 2021-03-06
 Someone added goat images to our library again! They were nice. But also, kinda scary but cool.
 
