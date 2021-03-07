@@ -69,6 +69,9 @@ Planted a tree today
 yoloswag420rektKEKWpoggersXD
 
 ## 2021-02-19
+Committing my password into a git repository in my previous journal entry was a mistake
+
+## 2021-02-19
 The internet was a mistake
 
 ## 2021-02-20
@@ -95,6 +98,13 @@ I did some analytics work to try and figure out how many Goats vs. the number of
 | Goats  | 999972 |
 | Ghosts | 50386  |
 | Cats   | 73505  |
+
+## 2021-02-24
+The internet is for Goats~
+
+The internet is for Goats~
+
+Just fill your Moats and drive your Boats for Goats, Goats Goats!
 
 ## 2021-02-25
 We have lost the cats of the world at basketball, this is our score now. Hopefully the goats will bring back up soon.
