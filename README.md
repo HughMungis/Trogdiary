@@ -109,9 +109,12 @@ Just fill your Moats and drive your Boats for Goats, Goats Goats!
 ## 2021-02-25
 We have lost the cats of the world at basketball, this is our score now. Hopefully the goats will bring back up soon.
 
-| Hoomans  | Cats   |
+| Team     | Score  |
 | ---------| -----: |
-|   -23    | 999972 |
+| Cats     | 999972 |
+| Hoomans  | -23    |
+| Goats    | 4096   |
+| Ghosts   | 7      |
 
 ## 2021-03-06
 We doomed the world and the cake was a lie. But at least we have Tacos. So there's that.
