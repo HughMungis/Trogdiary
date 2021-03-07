@@ -93,7 +93,7 @@ I did some analytics work to try and figure out how many Goats vs. the number of
 | Type   | Count  |
 | ------ | -----: |
 | Goats  | 999972 |
-| Ghosts | 503    |
+| Ghosts | 50386  |
 | Cats   | 73505  |
 
 ## 2021-03-06
