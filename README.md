@@ -77,6 +77,9 @@ But it was a big, beautiful mistake in the style of go big or go home.
 ## 2021-02-21
 Upon realizing how big a  mistake the Internets were, the Cats got in and decided to have their way with it. So now there are Cats on the Internets. The Internets are now less of a terrible place than before.
 
+## 2021-02-22
+GHOSTS! GHOSTS! The unholy see through glove of the underworld is back! They stole the damn pizza again!
+
 ## 2021-03-06
 We doomed the world and the cake was a lie. But at least we have Tacos. So there's that.
 
