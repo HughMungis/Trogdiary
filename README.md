@@ -108,7 +108,7 @@ I research browse and shop - for Goats!
 Until I've had enough and I have to stop - for Goats!
 The internet is for Goats~
 The internet is for Goats~
-Just fill your Moats and drive your Boats for Goats, Goats Goats!
+Just get your Totes and sink your Boats for Goats, Goats Goats!
 ```
 
 ## 2021-02-25
