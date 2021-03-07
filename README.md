@@ -133,4 +133,4 @@ Someone added goat images to our library again! They were nice. But also, kinda 
 ## 2021-03-07
 Working with multiple remotes allows you to have your git history backed up to multiple places!
 
-This is useful to people who want physically isolated redundancy of backup.
+This is useful to people who want physically isolated redundancy of backup. It's handy.
