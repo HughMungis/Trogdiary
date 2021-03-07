@@ -127,10 +127,13 @@ We doomed the world and the cake was a lie. But at least we have Tacos. So there
 ## 2021-03-06
 Blue up the moon with green paint...delicious.
 
+UPDATE: We lost the moon.
+
 ## 2021-03-06
 Someone added goat images to our library again! They were nice. But also, kinda scary but cool.
 
 ## 2021-03-07
-Working with multiple remotes allows you to have your git history backed up to multiple places!
+Working with multiple remotes allows you to have your git history backed up to multiple places! Also, DOUGHNUTS!
 
 This is useful to people who want physically isolated redundancy of backup. It's handy.
+
